@@ -42,10 +42,12 @@ endmodule
 ![293328819-0b10e8d3-3edb-4adb-8b8a-37017a8b2e87](https://github.com/Akshaya-SK/Experiment--02-Implementation-of-combinational-logic-/assets/149347593/3f1b2203-97f7-4ef5-91e2-e618f179c90b)
 
 ## TRUTH TABLE
-![Uploading 293330224-0a3bc6fb-6b81-47b3-81f2-83403e6d5db8.png…]()
+![293330224-0a3bc6fb-6b81-47b3-81f2-83403e6d5db8](https://github.com/Akshaya-SK/Experiment--02-Implementation-of-combinational-logic-/assets/149347593/283312fa-d16d-4449-8e7f-959d98a3eb9c)
+
 
 ## Timing Diagram
-![Uploading 293330449-dd2320c7-7c99-48df-833b-18d01e1e0e00.png…]()
+![293330449-dd2320c7-7c99-48df-833b-18d01e1e0e00](https://github.com/Akshaya-SK/Experiment--02-Implementation-of-combinational-logic-/assets/149347593/e7cc8065-0966-411c-add0-1942b740f26b)
+
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
