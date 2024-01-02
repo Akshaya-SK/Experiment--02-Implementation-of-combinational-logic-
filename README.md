@@ -34,9 +34,6 @@ assign f1=x1|x2|x3|x4|x5;
 endmodule
 ```
 
-## RTL realization
-![293328819-0b10e8d3-3edb-4adb-8b8a-37017a8b2e87](https://github.com/Akshaya-SK/Experiment--02-Implementation-of-combinational-logic-/assets/149347593/f1485473-21e7-4c64-a9c0-8588164b60ae)
-
 ## Output:
 ## RTL
 ![293328819-0b10e8d3-3edb-4adb-8b8a-37017a8b2e87](https://github.com/Akshaya-SK/Experiment--02-Implementation-of-combinational-logic-/assets/149347593/3f1b2203-97f7-4ef5-91e2-e618f179c90b)
